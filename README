@@ -1,0 +1,11 @@
+Universal Ball Bearing Joint
+============================
+
+I was tired of using crappy prints of universal joints. So I
+designed this guy, which should work for tiny universal joints
+up to the big guys, assuming you have an oiled ball beraing to
+work with.
+
+Any ball bearing will do, just fire 'er up in OpenSCAD and
+modify the dimensions for the bearing ou have. I swear, it
+was made to be easy!
