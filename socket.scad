@@ -1,5 +1,5 @@
-bearing_diameter = 3;
-internal_diameter = bearing_diameter-1;
+bearing_diameter = 6.35;
+internal_diameter = 3;
 
 length_multiplier= 2;
 thickness_multiplier = 0.5;
