@@ -1,5 +1,5 @@
-bearing_diameter = 6.35;
-internal_diameter = 3;
+bearing_diameter = 12.7;
+internal_diameter = 2.61;
 
 length_multiplier= 2;
 thickness_multiplier = 0.5;
