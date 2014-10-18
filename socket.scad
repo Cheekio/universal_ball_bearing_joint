@@ -1,4 +1,4 @@
-bearing_diameter = 12.7;
+bearing_diameter = 6.35;
 internal_diameter = 2.61;
 
 length_multiplier= 2;
@@ -21,7 +21,7 @@ difference(){
 }
 
 module pillar(){
-	translate([-0.8*r, .8*r, h]){
+	translate([-0.8*r, 0.8*r, h]){
 		cube([0.8*d, tm*d, 1.5*d]);
 
 	}
